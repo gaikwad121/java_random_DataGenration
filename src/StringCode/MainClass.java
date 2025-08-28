@@ -9,6 +9,6 @@ public static void main(String[] args) {
 	program3.reverse(str);
 	program4.splitAndJoin(str);
 	program5.charSeq(s);
-	
+ 	
 }
 }
